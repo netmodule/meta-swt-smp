@@ -20,6 +20,7 @@ IMAGE_FEATURES += " \
 IMAGE_INSTALL += " \
     openssh-sftp-server \	
     mtd-utils \
+    libstdc++ \
     "
 
 # Image in ext2 format and with U-Boot header	
