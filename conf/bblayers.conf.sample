@@ -10,6 +10,7 @@ BBLAYERS ?= " \
   ##COREBASE##/meta-yocto \
   ##COREBASE##/meta-yocto-bsp \
   ##COREBASE##/meta-xilinx \
+  ##COREBASE##/meta-xilinx-community \
   ##COREBASE##/meta-swt-smp \
   "
 BBLAYERS_NON_REMOVABLE ?= " \
